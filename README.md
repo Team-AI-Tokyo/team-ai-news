@@ -12,9 +12,9 @@ https://marvelapp.com/67ha0gf/screen/51618111
 
 Feb 2019 : Coming soon
 
-Mar 2019 : Tinder UI (swipe right or left) with personalized contents recommendation. + Auto-trasnlation for 100 languages. 
+Mar 2019 : Tinder UI (swipe right or left) with personalized contents recommendation. + Auto-translation for 100 languages. 
 
-Now we need your help. If you are interested in contrbuting, please shoot me an email. Email: dai@jenio.co
+Now we need your help. If you are interested in contributing, please shoot me an email. Email: dai@jenio.co
 
 MLの人々のための技術ニュースアプリ、MLの人々によって。
 オープンソースプロジェクト。
